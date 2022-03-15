@@ -1,0 +1,5 @@
+
+https://git-scm.com/downloads
+
+
+git bash : terminal para otimizar o uso do Git 
